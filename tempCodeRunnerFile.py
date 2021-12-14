@@ -1,0 +1,1 @@
+rlst=lst.__revers()
