@@ -1,6 +1,6 @@
 #(13)Write a program that asks the user how many Fibonnaci numbers to generate and then generates them. 
 try:
-    n=int(input("how many fibonnaci number want to generate:-"))
+    n=int(input("how many fibonnaci number want to generate here:-"))
     t1=0
     t2=1
     for i in range(n):
